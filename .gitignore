@@ -1,28 +1,32 @@
-# Python environment
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
 venv/
 env/
-*.pyc
-__pycache__/
+ENV/
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb_checkpoints/
-
-# VS Code
+# IDEs and editors
+.idea/
 .vscode/
-*.code-workspace
+*.swp
+*.swo
+.vs/
 
-# Personal configurations
-pip.log
+# Logs and databases
 *.log
+*.sqlite
+pip.log
 
-# User-specific files
-*.suo
-*.user
-*.sln.docstates
-
-# Package directories
-lib/
-libs/
-build/
-dist/
+# OS generated files
+.DS_Store
+Thumbs.db

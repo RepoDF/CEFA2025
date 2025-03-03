@@ -17,7 +17,7 @@ Este repositorio contiene notebooks que pueden ejecutarse directamente en Google
 2. **Configurar los archivos de datos**  
    - Una vez dentro de Google Colab, abre la sección de **Archivos** en la barra lateral izquierda.
    - Crea una carpeta llamada `datos`.
-   - Descarga los archivos de datos necesarios desde el siguiente enlace de Google Drive: [CEFA 2025 Datos Notebooks](https://drive.google.com/drive/folders/1JY-Dy7kaSLINKBK4HDOV6fyLKa7R_1Zm?usp=drive_link)(habilitado temporalmente).
+   - Descarga los archivos de datos necesarios desde el siguiente enlace de Google Drive: [CEFA 2025 Datos Notebooks](https://drive.google.com/drive/folders/1JY-Dy7kaSLINKBK4HDOV6fyLKa7R_1Zm?usp=drive_link) (habilitado temporalmente).
    - Sube los archivos descargados a la carpeta `datos`.
 
 ## Alternativa: Acceder desde GitHub y Abrir en Colab
@@ -26,6 +26,9 @@ También puedes abrir el notebook directamente desde GitHub:
    - Haz clic en el notebook que deseas abrir.
    - En la parte superior del archivo, haz clic en **Abrir en Colab**.
    - Una vez en Colab, sigue los pasos para configurar los archivos de datos.
+
+## Video Tutorial: Acceder desde GitHub y Abrir en Colab
+Para una guía visual detallada, puedes ver el siguiente video: [Cómo Acceder y Usar Notebooks en Google Colab | Tutorial de Repositorio GitHub](https://youtu.be/40NlCGNmlj8)
 
 **Nota:** Si tienes problemas con el acceso a los archivos de datos en Google Drive, por favor infórmanos para resolverlo lo antes posible.
 

@@ -9,7 +9,7 @@ Este repositorio contiene notebooks que pueden ejecutarse directamente en Google
 
 1. **Abrir Google Colab y cargar el Notebook**  
    - Inicia sesión en [Google Colab](https://colab.research.google.com/).
-   - Copia la URL del repositorio: [CEFA 2025 - Repositorio](https://github.com/RepoDF/CEFA2025]).
+   - Copia la URL del repositorio:`[https://github.com/RepoDF/CEFA2025]`.
    - En Google Colab, haz clic en **Archivo** > **Abrir cuaderno**.
    - En la pestaña **GitHub**, pega la URL del repositorio en la barra de búsqueda.
    - Selecciona el notebook que deseas abrir y cárgalo en Colab.
@@ -28,5 +28,4 @@ También puedes abrir el notebook directamente desde GitHub:
    - Una vez en Colab, sigue los pasos para configurar los archivos de datos.
 
 **Nota:** Si tienes problemas con el acceso a los archivos de datos en Google Drive, por favor infórmanos para resolverlo lo antes posible.
-
 

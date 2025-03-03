@@ -4,28 +4,29 @@ Este repositorio contiene notebooks que pueden ejecutarse directamente en Google
 
 ## Requisitos Previos
 - Una cuenta de **Google** para usar Google Colab.
-- Una cuenta de **GitHub** para acceder al repositorio.
 
 ## Pasos para acceder desde Google Colab
 
-1. **Acceder al Repositorio en GitHub**  
-   - Visita el enlace del repositorio en GitHub: `[ENLACE_AL_REPOSITORIO]`
-   - Explora los archivos y carpetas del proyecto.
-
-2. **Abrir Google Colab y Conectar con GitHub**  
+1. **Abrir Google Colab y cargar el Notebook**  
    - Inicia sesión en [Google Colab](https://colab.research.google.com/).
-   - En la esquina superior derecha, haz clic en **Archivo** > **Abrir cuaderno**.
-   - En la pestaña **GitHub**, inicia sesión y autoriza a Google Colab para conectarse con tu cuenta de GitHub.
-   - Busca el repositorio y selecciona el notebook que deseas abrir.
+   - Copia la URL del repositorio: [CEFA 2025 - Repositorio](https://github.com/RepoDF/CEFA2025]).
+   - En Google Colab, haz clic en **Archivo** > **Abrir cuaderno**.
+   - En la pestaña **GitHub**, pega la URL del repositorio en la barra de búsqueda.
+   - Selecciona el notebook que deseas abrir y cárgalo en Colab.
 
-3. **Abrir los Notebooks desde la Carpeta `Colab`**  
-   - En la pestaña de GitHub en Colab, navega hasta la carpeta `Colab`.
-   - Abre el notebook de interés y comienza a ejecutarlo.
+2. **Configurar los archivos de datos**  
+   - Una vez dentro de Google Colab, abre la sección de **Archivos** en la barra lateral izquierda.
+   - Crea una carpeta llamada `datos`.
+   - Descarga los archivos de datos necesarios desde el siguiente enlace de Google Drive: [CEFA 2025 Datos Notebooks](https://drive.google.com/drive/folders/1JY-Dy7kaSLINKBK4HDOV6fyLKa7R_1Zm?usp=drive_link)(habilitado temporalmente).
+   - Sube los archivos descargados a la carpeta `datos`.
 
 ## Alternativa: Acceder desde GitHub y Abrir en Colab
-Otra opción es abrir el notebook directamente desde GitHub:
+También puedes abrir el notebook directamente desde GitHub:
    - En el repositorio, navega hasta la carpeta `Colab`.
    - Haz clic en el notebook que deseas abrir.
    - En la parte superior del archivo, haz clic en **Abrir en Colab**.
-   - Autoriza a Google Colab para acceder a tu cuenta de GitHub si aún no lo has hecho.
+   - Una vez en Colab, sigue los pasos para configurar los archivos de datos.
+
+**Nota:** Si tienes problemas con el acceso a los archivos de datos en Google Drive, por favor infórmanos para resolverlo lo antes posible.
+
 
